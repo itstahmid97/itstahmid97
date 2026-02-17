@@ -37,16 +37,16 @@
 ### 📊 **System Diagnostics (Stats)**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tahmid300&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&title_color=00BFFF&icon_color=00BFFF&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahmid300&theme=dark&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&currStreakLabel=00BFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itstahmid97&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&title_color=00BFFF&icon_color=00BFFF&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itstahmid97&theme=dark&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&currStreakLabel=00BFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid300&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00BFFF&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstahmid97&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00BFFF&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tahmid300&color=00BFFF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=itstahmid97&color=00BFFF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
 ---
