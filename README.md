@@ -62,21 +62,25 @@
 
 ## 📊 System Diagnostics (Stats)
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itstahmid97&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&title_color=00BFFF&icon_color=00BFFF&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itstahmid97&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&title_color=00BFFF&icon_color=00BFFF&hide_border=true&border_radius=12" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itstahmid97&theme=dark&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&currStreakLabel=00BFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itstahmid97&theme=dark&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&currStreakLabel=00BFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=12" alt="GitHub Streak" />
 
-</p>
+<br/><br/>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstahmid97&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00BFFF&hide_border=true" alt="Top Languages" />
-</p>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstahmid97&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00BFFF&hide_border=true&border_radius=12" alt="Top Languages" />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=itstahmid97&color=00BFFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=itstahmid97&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
 
 ---
 
