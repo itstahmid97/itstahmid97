@@ -9,7 +9,10 @@
 ---
 
 ### 👨‍💻 **About Me**
-
+* 👋 I'm a passionate **Computer Science & Engineering** student at **United International University (UIU)**.
+* 📱 I specialize in **Flutter Development**, creating beautiful and functional cross-platform mobile applications.
+* 💻 I enjoy solving complex problems using **C++** and exploring the depths of **Data Structures & Algorithms**.
+<br/>
 * 🚀 **Working on:** Advanced Flutter UI/UX & Mobile Apps
 * 🧠 **Learning:** Data Structures & Algorithms in C++
 * 🏢 **Community:** Active member of UIU Computer Club & App Forum
@@ -18,11 +21,11 @@
 
 ### 🌐 **Connect With Me**
 <p align="center">
-<a href="https://linkedin.com/in/tahmid1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/itstahmid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="45" alt="Facebook" /></a>
-<a href="https://www.instagram.com/nahid_xd_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45" alt="Instagram" /></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=smtahmidh@gmail.com&tf=cm" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="35" width="35" alt="Gmail" /></a>
-<a href="https://tahmidhasan.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/color/48/domain.png" height="35" width="35" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/tahmid1234" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/itstahmid/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="45" alt="Facebook" /></a>
+<a href="https://www.instagram.com/nahid_xd_/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45" alt="Instagram" /></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=smtahmidh@gmail.com&tf=cm" target="blank"><img src="https://img.icons8.com/color/48/gmail-new.png" height="35" width="35" alt="Gmail" /></a>
+<a href="https://tahmidhasan.vercel.app/" target="blank"><img src="https://img.icons8.com/color/48/domain.png" height="35" width="35" alt="Portfolio" /></a>
 </p>
 
 ---
